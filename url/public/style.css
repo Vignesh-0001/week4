@@ -1,0 +1,30 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+.button{ background-color: hsl(168, 76%, 42%) ;color: white;}
+
+#contact{ text-align: center;}
+
+
+
+
+.d-flex{ justify-content: center;align-items: center;}
+.nav button{text-align: center;justify-content: space-between;}
+
+
+.text-upper-case .btn:hover{ background-color:aliceblue;   }
+
+.mt-4 .fa-brands {font-size: large;}
+.container-fluid{padding-top: 20px}
+.last-before{padding-top: 20px;}
+
+#location{ background-color:#2c3e50;}
+
+
+
+
+
+
